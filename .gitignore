@@ -1,0 +1,16 @@
+# Dependências e build
+node_modules
+dist
+
+# Variáveis de ambiente (podem conter chaves): só o .env.example é versionado
+.env
+.env.*
+!.env.example
+*.local
+
+# Vercel
+.vercel
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
