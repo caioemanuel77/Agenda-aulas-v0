@@ -1,5 +1,7 @@
 # Mural de aulas
 
+## Link do site: https://agenda-aulas-seven.vercel.app/
+
 Site colaborativo para a turma registrar o conteúdo visto em cada aula e saber em que ponto cada cadeira parou. Útil para quem faltou.
 
 ## Funcionalidades
